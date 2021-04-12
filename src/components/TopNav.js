@@ -1,5 +1,5 @@
 import React from 'react';
-import '/Users/anikthomas/Desktop/reactstrap/src/components/TopNav/tnav.css';
+import './TopNav/tnav.css';
 
 class TopNav extends React.Component{
     constructor(props){
